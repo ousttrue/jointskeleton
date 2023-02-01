@@ -36,5 +36,11 @@
                 }
             },
         },
+        {
+            "label": "compdb",
+            "type": "shell",
+            "command": "compdb -p builddir list > compile_commands.json",
+            "problemMatcher": [],
+        },
     ]
 }

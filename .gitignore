@@ -3,3 +3,5 @@
 !/subprojects/*.wrap
 !/subprojects/packagefiles
 imgui.ini
+/
+.cache

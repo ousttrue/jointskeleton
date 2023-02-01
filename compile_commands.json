@@ -1,0 +1,589 @@
+[
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c ../subprojects/glfw-3.3.8/src/context.c",
+  "file": "../subprojects/glfw-3.3.8/src/context.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_init.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_init.c.obj /c ../subprojects/glfw-3.3.8/src/init.c",
+  "file": "../subprojects/glfw-3.3.8/src/init.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_init.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_input.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_input.c.obj /c ../subprojects/glfw-3.3.8/src/input.c",
+  "file": "../subprojects/glfw-3.3.8/src/input.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_input.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_monitor.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_monitor.c.obj /c ../subprojects/glfw-3.3.8/src/monitor.c",
+  "file": "../subprojects/glfw-3.3.8/src/monitor.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_monitor.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_vulkan.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_vulkan.c.obj /c ../subprojects/glfw-3.3.8/src/vulkan.c",
+  "file": "../subprojects/glfw-3.3.8/src/vulkan.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_vulkan.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_window.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_window.c.obj /c ../subprojects/glfw-3.3.8/src/window.c",
+  "file": "../subprojects/glfw-3.3.8/src/window.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_window.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_egl_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_egl_context.c.obj /c ../subprojects/glfw-3.3.8/src/egl_context.c",
+  "file": "../subprojects/glfw-3.3.8/src/egl_context.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_egl_context.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_osmesa_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_osmesa_context.c.obj /c ../subprojects/glfw-3.3.8/src/osmesa_context.c",
+  "file": "../subprojects/glfw-3.3.8/src/osmesa_context.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_osmesa_context.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_wgl_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_wgl_context.c.obj /c ../subprojects/glfw-3.3.8/src/wgl_context.c",
+  "file": "../subprojects/glfw-3.3.8/src/wgl_context.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_wgl_context.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_win32_init.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_init.c.obj /c ../subprojects/glfw-3.3.8/src/win32_init.c",
+  "file": "../subprojects/glfw-3.3.8/src/win32_init.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_init.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_win32_joystick.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_joystick.c.obj /c ../subprojects/glfw-3.3.8/src/win32_joystick.c",
+  "file": "../subprojects/glfw-3.3.8/src/win32_joystick.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_joystick.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_win32_monitor.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_monitor.c.obj /c ../subprojects/glfw-3.3.8/src/win32_monitor.c",
+  "file": "../subprojects/glfw-3.3.8/src/win32_monitor.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_monitor.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_win32_thread.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_thread.c.obj /c ../subprojects/glfw-3.3.8/src/win32_thread.c",
+  "file": "../subprojects/glfw-3.3.8/src/win32_thread.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_thread.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_win32_time.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_time.c.obj /c ../subprojects/glfw-3.3.8/src/win32_time.c",
+  "file": "../subprojects/glfw-3.3.8/src/win32_time.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_time.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_win32_window.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_window.c.obj /c ../subprojects/glfw-3.3.8/src/win32_window.c",
+  "file": "../subprojects/glfw-3.3.8/src/win32_window.c",
+  "output": "subprojects/glfw-3.3.8/glfw3-3.dll.p/src_win32_window.c.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\misc_cpp_imgui_stdlib.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/misc_cpp_imgui_stdlib.cpp.obj /c ../subprojects/imgui-1.89.2/misc/cpp/imgui_stdlib.cpp",
+  "file": "../subprojects/imgui-1.89.2/misc/cpp/imgui_stdlib.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/misc_cpp_imgui_stdlib.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\imgui.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/imgui.cpp.obj /c ../subprojects/imgui-1.89.2/imgui.cpp",
+  "file": "../subprojects/imgui-1.89.2/imgui.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/imgui.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\imgui_demo.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/imgui_demo.cpp.obj /c ../subprojects/imgui-1.89.2/imgui_demo.cpp",
+  "file": "../subprojects/imgui-1.89.2/imgui_demo.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/imgui_demo.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\imgui_draw.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/imgui_draw.cpp.obj /c ../subprojects/imgui-1.89.2/imgui_draw.cpp",
+  "file": "../subprojects/imgui-1.89.2/imgui_draw.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/imgui_draw.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\imgui_tables.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/imgui_tables.cpp.obj /c ../subprojects/imgui-1.89.2/imgui_tables.cpp",
+  "file": "../subprojects/imgui-1.89.2/imgui_tables.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/imgui_tables.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\imgui_widgets.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/imgui_widgets.cpp.obj /c ../subprojects/imgui-1.89.2/imgui_widgets.cpp",
+  "file": "../subprojects/imgui-1.89.2/imgui_widgets.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/imgui_widgets.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_dx9.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx9.cpp.obj /c ../subprojects/imgui-1.89.2/backends/imgui_impl_dx9.cpp",
+  "file": "../subprojects/imgui-1.89.2/backends/imgui_impl_dx9.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx9.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_dx10.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx10.cpp.obj /c ../subprojects/imgui-1.89.2/backends/imgui_impl_dx10.cpp",
+  "file": "../subprojects/imgui-1.89.2/backends/imgui_impl_dx10.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx10.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_dx11.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx11.cpp.obj /c ../subprojects/imgui-1.89.2/backends/imgui_impl_dx11.cpp",
+  "file": "../subprojects/imgui-1.89.2/backends/imgui_impl_dx11.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx11.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_dx12.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx12.cpp.obj /c ../subprojects/imgui-1.89.2/backends/imgui_impl_dx12.cpp",
+  "file": "../subprojects/imgui-1.89.2/backends/imgui_impl_dx12.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx12.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_opengl3.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_opengl3.cpp.obj /c ../subprojects/imgui-1.89.2/backends/imgui_impl_opengl3.cpp",
+  "file": "../subprojects/imgui-1.89.2/backends/imgui_impl_opengl3.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_opengl3.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c ../subprojects/imgui-1.89.2/backends/imgui_impl_vulkan.cpp",
+  "file": "../subprojects/imgui-1.89.2/backends/imgui_impl_vulkan.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_glfw.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_glfw.cpp.obj /c ../subprojects/imgui-1.89.2/backends/imgui_impl_glfw.cpp",
+  "file": "../subprojects/imgui-1.89.2/backends/imgui_impl_glfw.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_glfw.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_win32.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_win32.cpp.obj /c ../subprojects/imgui-1.89.2/backends/imgui_impl_win32.cpp",
+  "file": "../subprojects/imgui-1.89.2/backends/imgui_impl_win32.cpp",
+  "output": "subprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_win32.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isrc\\\\jointskeleton.exe.p -Isrc -I..\\\\src -I..\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -I..\\\\subprojects\\\\glimmer\\\\Source\\\\MeshUtils -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsrc\\\\jointskeleton.exe.p\\\\main.cpp.pdb /Fosrc/jointskeleton.exe.p/main.cpp.obj /c ../src/main.cpp",
+  "file": "../src/main.cpp",
+  "output": "src/jointskeleton.exe.p/main.cpp.obj"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\internal.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\internal.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c subprojects\\\\glfw-3.3.8\\\\glfw_config.h",
+  "file": "subprojects\\glfw-3.3.8\\glfw_config.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_glfw.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_glfw.cpp.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\include\\\\GLFW\\\\glfw3.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\include\\GLFW\\glfw3.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\cocoa_platform.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\cocoa_platform.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\posix_thread.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\posix_thread.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\cocoa_joystick.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\cocoa_joystick.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\nsgl_context.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\nsgl_context.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\egl_context.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\egl_context.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\osmesa_context.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\osmesa_context.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\win32_platform.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\win32_platform.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\win32_joystick.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\win32_joystick.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\wgl_context.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\wgl_context.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\x11_platform.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\x11_platform.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\posix_time.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\posix_time.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\xkb_unicode.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\xkb_unicode.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\glx_context.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\glx_context.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\linux_joystick.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\linux_joystick.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\null_joystick.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\null_joystick.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\wl_platform.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\wl_platform.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_context.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_context.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\null_platform.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\null_platform.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p -Isubprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8 -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src /MDd /nologo /showIncludes /utf-8 /Od /Zi -D_GLFW_BUILD_DLL -D_USE_MATH_DEFINES -D_GLFW_USE_CONFIG_H /Fdsubprojects\\\\glfw-3.3.8\\\\glfw3-3.dll.p\\\\src_input.c.pdb /Fosubprojects/glfw-3.3.8/glfw3-3.dll.p/src_input.c.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\src\\\\mappings.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\src\\mappings.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\misc_cpp_imgui_stdlib.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/misc_cpp_imgui_stdlib.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\imgui.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\imgui.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\misc_cpp_imgui_stdlib.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/misc_cpp_imgui_stdlib.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\imconfig.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\imconfig.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\misc_cpp_imgui_stdlib.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/misc_cpp_imgui_stdlib.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\misc\\\\cpp\\\\imgui_stdlib.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\misc\\cpp\\imgui_stdlib.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\imgui.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/imgui.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\imgui_internal.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\imgui_internal.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\imgui_widgets.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/imgui_widgets.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\imstb_textedit.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\imstb_textedit.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\imgui_draw.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/imgui_draw.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\misc\\\\freetype\\\\imgui_freetype.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\misc\\freetype\\imgui_freetype.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\imgui_draw.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/imgui_draw.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\imstb_rectpack.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\imstb_rectpack.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\imgui_draw.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/imgui_draw.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\imstb_truetype.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\imstb_truetype.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_dx9.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx9.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\backends\\\\imgui_impl_dx9.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\backends\\imgui_impl_dx9.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_dx10.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx10.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\backends\\\\imgui_impl_dx10.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\backends\\imgui_impl_dx10.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_dx11.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx11.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\backends\\\\imgui_impl_dx11.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\backends\\imgui_impl_dx11.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_dx12.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_dx12.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\backends\\\\imgui_impl_dx12.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\backends\\imgui_impl_dx12.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_opengl3.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_opengl3.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\backends\\\\imgui_impl_opengl3.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\backends\\imgui_impl_opengl3.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_opengl3.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_opengl3.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\backends\\\\imgui_impl_opengl3_loader.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\backends\\imgui_impl_opengl3_loader.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\backends\\\\imgui_impl_vulkan.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\backends\\imgui_impl_vulkan.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vk_platform.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vk_platform.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_core.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_core.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_android.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_android.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_fuchsia.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_fuchsia.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_ios.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_ios.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_macos.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_macos.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_metal.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_metal.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_vi.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_vi.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_wayland.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_wayland.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_win32.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_win32.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_xcb.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_xcb.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_xlib.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_xlib.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_directfb.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_directfb.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_xlib_xrandr.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_xlib_xrandr.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_ggp.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_ggp.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_screen.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_screen.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vulkan\\\\vulkan_beta.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vulkan\\vulkan_beta.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vk_video\\\\vulkan_video_codec_h264std.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vk_video\\vulkan_video_codec_h264std.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vk_video\\\\vulkan_video_codec_h264std_encode.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vk_video\\vulkan_video_codec_h264std_encode.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vk_video\\\\vulkan_video_codec_h265std.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vk_video\\vulkan_video_codec_h265std.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vk_video\\\\vulkan_video_codec_h265std_encode.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vk_video\\vulkan_video_codec_h265std_encode.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vk_video\\\\vulkan_video_codec_h264std_decode.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vk_video\\vulkan_video_codec_h264std_decode.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_vulkan.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_vulkan.cpp.obj /c -c ..\\\\..\\\\..\\\\..\\\\..\\\\VulkanSDK\\\\1.3.231.1\\\\Include\\\\vk_video\\\\vulkan_video_codec_h265std_decode.h",
+  "file": "..\\..\\..\\..\\..\\VulkanSDK\\1.3.231.1\\Include\\vk_video\\vulkan_video_codec_h265std_decode.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_glfw.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_glfw.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\backends\\\\imgui_impl_glfw.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\backends\\imgui_impl_glfw.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_glfw.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_glfw.cpp.obj /c -c ..\\\\subprojects\\\\glfw-3.3.8\\\\include\\\\GLFW\\\\glfw3native.h",
+  "file": "..\\subprojects\\glfw-3.3.8\\include\\GLFW\\glfw3native.h"
+},
+
+{
+  "directory": "C:\\ghq\\github.com\\ousttrue\\jointskeleton\\builddir",
+  "command": "cl -Isubprojects\\\\imgui-1.89.2\\\\libimgui.a.p -Isubprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2 -I..\\\\subprojects\\\\imgui-1.89.2\\\\backends -I..\\\\subprojects\\\\glfw-3.3.8\\\\include -I..\\\\subprojects\\\\glfw-3.3.8\\\\src -IC:\\\\VulkanSDK\\\\1.3.231.1\\\\Include /MDd /nologo /showIncludes /utf-8 /Zc:__cplusplus /W2 /EHsc /Od /Zi -DIMGUI_API= /Fdsubprojects\\\\imgui-1.89.2\\\\libimgui.a.p\\\\backends_imgui_impl_win32.cpp.pdb /Fosubprojects/imgui-1.89.2/libimgui.a.p/backends_imgui_impl_win32.cpp.obj /c -c ..\\\\subprojects\\\\imgui-1.89.2\\\\backends\\\\imgui_impl_win32.h",
+  "file": "..\\subprojects\\imgui-1.89.2\\backends\\imgui_impl_win32.h"
+}
+]
