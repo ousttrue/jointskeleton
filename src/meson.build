@@ -8,6 +8,9 @@ executable(
     'jointskeleton',
     [
         'main.cpp',
+        'GuiWindow.cpp',
+        'GuiApp.cpp',
+        'GlRenderer.cpp',
     ],
     install: true,
     include_directories: include_directories('../include'),
