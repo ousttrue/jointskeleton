@@ -1,10 +1,12 @@
 #include "GlRenderer.h"
-#include <Windows.h>
+#include <GL/glew.h>
 #include <iostream>
 
-#include <GL/GL.h>
-
-GlRenderer::GlRenderer() { std::cout << glGetString(GL_VERSION) << std::endl; }
+GlRenderer::GlRenderer() {
+  std::cout << "GL_VERSION: " << glGetString(GL_VERSION) << std::endl;
+  glewInit();
+  std::cout << "GLEW_VERSION: " << glewGetString(GLEW_VERSION) << std::endl;
+}
 
 GlRenderer::~GlRenderer() {}
 
