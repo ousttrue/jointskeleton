@@ -11,7 +11,7 @@
             "program": "${workspaceFolder}/prefix/bin/jointskeleton.exe",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${fileDirname}",
+            "cwd": "${workspaceFolder}",
             "environment": [],
             "console": "integratedTerminal"
         },
