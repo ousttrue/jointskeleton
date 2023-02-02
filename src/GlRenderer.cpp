@@ -1,6 +1,7 @@
 #include "GlRenderer.h"
 #include <GL/glew.h>
 #include <iostream>
+#include <DirectXMath.h>
 
 GlRenderer::GlRenderer() {
   std::cout << "GL_VERSION: " << glGetString(GL_VERSION) << std::endl;
