@@ -2,6 +2,19 @@
 #include "GuiApp.h"
 #include "GuiWindow.h"
 
+float view[] = {
+    1, 0, 0, 0, //
+    0, 1, 0, 0, //
+    0, 0, 1, 0, //
+    0, 0, 0, 1, //
+};
+float projection[] = {
+    1, 0, 0, 0, //
+    0, 1, 0, 0, //
+    0, 0, 1, 0, //
+    0, 0, 0, 1, //
+};
+
 int main(int, char **) {
 
   GuiWindow gui;
@@ -24,8 +37,8 @@ int main(int, char **) {
         app.clear_color[3],
     };
     renderer.BeginFrame(display_w, display_h, clear_color);
+    renderer.RenderScene(view, projection);
     app.RenderGui();
-    renderer.RenderScene();
     gui.EndFrame();
   }
 
